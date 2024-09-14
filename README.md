@@ -2,7 +2,7 @@
 - 👀 I’m interested in doing fun data projects, showcasing my skills!
 - 🌱 I’m currently learning SQL, Python, R
 - 💞️ I’m looking to collaborate on any and every data project
-- 📫 How to reach me abrohirecruitment@gmail.com
+- 📫 How to reach me amirbrohi17@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: My first data project was on tornados!
 
