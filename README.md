@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Abrohi26
 - 👀 I’m interested in tough data projects that focus on domain knowledge. 
-- 🌱 I’m well versed in SQL, Python, Excle 
+- 🌱 I’m well versed in SQL, Python, Excel 
 - 💞️ I’m looking to answer tough questions to demonstarte the value of data
 - 📫 How to reach me amirbrohi17@gmail.com
 - ⚡ Fun fact: My first data project was on tornados! Because Tornados are cool, but now i'm mainly doing financial data.
