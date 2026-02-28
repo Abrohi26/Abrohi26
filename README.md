@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @Abrohi26
-- 👀 I’m interested in doing fun data projects, showcasing my skills!
-- 🌱 I’m currently learning SQL, Python, R
-- 💞️ I’m looking to collaborate on any and every data project
+- 👀 I’m interested in tough data projects that focus on domain knowledge. 
+- 🌱 I’m well versed in SQL, Python, Excle 
+- 💞️ I’m looking to answer tough questions to demonstarte the value of data
 - 📫 How to reach me amirbrohi17@gmail.com
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: My first data project was on tornados!
+- ⚡ Fun fact: My first data project was on tornados! Because Tornados are cool, but now i'm mainly doing financial data.
 
 <!---
 Abrohi26/Abrohi26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
